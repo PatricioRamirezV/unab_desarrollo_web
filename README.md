@@ -16,8 +16,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 preparando un pull
 
-# Título 3
+# Titutlo 3
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam sunt, ipsam optio cupiditate autem similique quaerat nobis sequi quia voluptatum, totam, magni necessitatibus! Veritatis alias, officiis beatae similique nulla necessitatibus!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque perspiciatis minus porro voluptas dolores inventore eveniet vitae tempora magni. Eligendi sunt amet eius, saepe rerum magni. Aliquid nam perspiciatis sunt.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore possimus accusantium hic praesentium animi dolores facilis dicta, iusto magni quod? Laborum veniam sit aut magnam vero! Libero, esse dolorum provident!
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae fugit accusamus doloremque hic quos itaque quisquam rem aperiam, sequi reiciendis excepturi, vel? Eveniet omnis earum sit natus, minima velit quae.
